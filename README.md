@@ -35,9 +35,7 @@ As an example, for the CIFAR10 data set, go to the CIFAR10/CIFAR10_freq_analysis
 2. To evaluate transferability from a natural model to a model trained on image high-pass filtered at intensity 8, run:
  
         python transfer_base_to_freq.py base 0 low_freq_8 low 8
- 
-$`\sqrt{2}`$
- 
+
 - X_constraints : code files to train models (classical training or Adversarial Training) with the loss functions ```L^{low}```, ```L^{high}``` and ```L^{all}```
 
 As an example, for the SVHN data set, go to the SVHN/SVHN_freq_analysis folder.
