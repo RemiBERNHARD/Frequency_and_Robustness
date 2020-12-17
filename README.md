@@ -37,7 +37,7 @@ As an example, for the CIFAR10 data set, go to the CIFAR10/CIFAR10_freq_analysis
         python transfer_base_to_freq.py base 0 low_freq_8 low 8
  
  
-- X_constraints : code files to train models (classical training or Adversarial Training) with the loss functions ```L^{low}```, ```L^{high}``` and ```L^{all}```
+- X_constraints : code files to train models (classical training or Adversarial Training) with the loss functions ```$L^{low}$```, ```L^{high}``` and ```L^{all}```
 
 As an example, for the SVHN data set, go to the SVHN/SVHN_freq_analysis folder.
 
