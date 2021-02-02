@@ -63,7 +63,9 @@ In order to get the SVHN (or Small Imagenet) data set (to have the same training
 
 ### Details about Small Imagenet
 The Small Imagenet data set is built by extracting 10 meta classes from the ImageNet ILSVRC2012 benchmark. For each meta class, we extracted 3000 images from the original training set and 300 images from the non-blacklisted validation set.
-Each of the 10 meta classes consists in 3 classes from the original ImageNet data set. The 10 meta classes with the corresponding label indices of the 3 real classes are as follows:
+Each meta class consists in 3 classes from the original ImageNet data set.
+
+The 10 meta classes with the corresponding label indices of the 3 real classes are as follows:
 * shark: 2 3 4
 * bird: 85 86 87
 * frog: 30 31 32
