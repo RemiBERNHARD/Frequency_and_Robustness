@@ -75,8 +75,4 @@ The 10 meta classes with the corresponding label indices of the 3 real classes a
 * monkey: 367 368 369
 * ball: 768, 805, 852
 * chair: 423, 559, 765
-*truck: 569, 717, 867
-
-
-
-
+* truck: 569, 717, 867
