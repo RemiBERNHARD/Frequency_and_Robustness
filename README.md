@@ -59,8 +59,6 @@ run:
 In order to get the SVHN (or Small Imagenet) data set (to have the same training, validation and testing tests, as well as to run attacks), download the "SVHN_data" (or "Small_IMNET") folders from https://drive.google.com/drive/folders/18FJE0lPe0QPzLyAj0ATZWFO1DU31z4sH and place them in the same directory as all other files.
 
 
-<a name="madry_pgd">1</a>: Aleksander Madry,  Aleksandar Makelov,  Ludwig Schmidt,Dimitris Tsipras,  and Adrian Vladu. Towards deep learn-ing models resistant to adversarial attacks. In *InternationalConference on Learning Representations, 2018*
-
 ### Details about Small Imagenet
 The Small Imagenet data set is built by extracting 10 meta classes from the ImageNet ILSVRC2012 benchmark. For each meta class, we extracted 3000 images from the original training set and 300 images from the non-blacklisted validation set.
 Each meta class consists in 3 classes from the original ImageNet data set.
@@ -76,3 +74,11 @@ The 10 meta classes with the corresponding label indices of the 3 real classes a
 * ball: 768, 805, 852
 * chair: 423, 559, 765
 * truck: 569, 717, 867
+
+Correspondance between ImageNet class indices and class names can be found at https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a
+
+
+
+
+
+<a name="madry_pgd">1</a>: Aleksander Madry,  Aleksandar Makelov,  Ludwig Schmidt,Dimitris Tsipras,  and Adrian Vladu. Towards deep learn-ing models resistant to adversarial attacks. In *InternationalConference on Learning Representations, 2018*
