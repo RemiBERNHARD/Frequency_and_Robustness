@@ -75,8 +75,7 @@ The 10 meta classes with the corresponding label indices of the 3 real classes a
 * chair: 423, 559, 765
 * truck: 569, 717, 867
 
-Correspondance between ImageNet class indices and class names can be found at https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a
-
+The correspondance between ImageNet class indices and class names can be found at https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a
 
 
 
