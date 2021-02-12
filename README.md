@@ -80,4 +80,4 @@ The correspondance between ImageNet class indices and class names can be found a
 
 
 
-<a name="madry_pgd">1</a>: Aleksander Madry,  Aleksandar Makelov,  Ludwig Schmidt,Dimitris Tsipras,  and Adrian Vladu. Towards deep learn-ing models resistant to adversarial attacks. In *InternationalConference on Learning Representations, 2018*
+<a name="madry_pgd">1</a>: Aleksander Madry,  Aleksandar Makelov,  Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. Towards deep learn-ing models resistant to adversarial attacks. In *InternationalConference on Learning Representations, 2018*
