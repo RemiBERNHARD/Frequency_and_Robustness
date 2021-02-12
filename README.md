@@ -48,7 +48,7 @@ As an example, for the SVHN data set, go to the SVHN/SVHN_freq_analysis folder.
 
          python train_svhn_adv.py madry_cons_all 0 2 10
    
-3. To attack this model with the ```l_{\infty}``` PGD attack <sup>[1](#madry_pgd)</sup> with a perturbation budget ``` \epsilon = 0.03```, and 5000 iterations,
+3. To attack this model with the ```l_{\infty}``` PGD attack<sup>[1](#madry_pgd)</sup> with a perturbation budget ``` \epsilon = 0.03```, and 5000 iterations,
 run:
 
          python attack_svhn_adv.py madry_cons_all_2_10 0 5000
