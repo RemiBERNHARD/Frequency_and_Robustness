@@ -1,6 +1,11 @@
 # Towards better understanding the impact of frequency characteristics on adversarial robustness
 
-This repository contains python scripts to reproduce results presented in the article "Towards better understanding the impact of frequency characteristics on adversarial robustness".
+This repository contains pretrained models and python scripts to reproduce results presented in the article:
+
+**Impact of Spatial Frequency Based Constraints on Adversarial Robustness** <br/>
+Rémi Bernhard , Pierre-Alain Moellic and Jean-Max Dutertre </br>
+IJCNN 2021  </br>
+https://arxiv.org/abs/2104.12679 <br/>
 
 ## Environment and libraries
 
